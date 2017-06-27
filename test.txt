@@ -1,5 +1,9 @@
 Master A
+<<<<<<< HEAD
 b1: v_b1
 b1: v_b1a
 B1:B
  
+=======
+Mater B
+>>>>>>> master
